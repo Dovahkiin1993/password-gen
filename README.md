@@ -1,4 +1,8 @@
+## Description
+
+```
 In this project i was given a little amount of starter code. i had to create a password generator for an employer, that had to meet certain conditions. Below i have put a copy of the user story and acceptance criteria aswel as a picture of the finihed site and a link to access it.
+```
 
 ## User Story
 
